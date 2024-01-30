@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1, 
+    "name": "get groceries",
+    "done" : false
+   },
+{
+    "id": 2, 
+    "name": "go to spin class",
+    "done" : false
+   },
+   {
+    "id": 3, 
+    "name": "do laundry",
+    "done" : false
+   },
+   {
+    "id": 4, 
+    "name": "meal prep",
+    "done" : false
+   },
+   {
+    "id": 5, 
+    "name": "hoover the floors",
+    "done" : false
+   },
+   {
+    "id": 6, 
+    "name": "clean bathroom",
+    "done" : false
+   },
+   {
+    "id": 7, 
+    "name": "take out trash",
+    "done" : false
+   },
+   {
+    "id": 8, 
+    "name": "go for a walk",
+    "done" : false
+   },
+   {
+    "id": 9, 
+    "name": "meet a friend",
+    "done" : false
+   },
+   {
+    "id": 10, 
+    "name": "watch winter sports",
+    "done" : false
+   }
+]
